@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App_v2",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -189,10 +189,16 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "c77aee09-664c-4ede-a0ce-d6bea2c1a336": {
+                    "scope": "APP",
+                    "name": "audible_confirmation_state",
+                    "screenId": "c6b25e9b-86e4-4b61-b7ad-bbe6321dcb0b"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
